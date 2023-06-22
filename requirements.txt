@@ -1,0 +1,8 @@
+tqdm
+opencv-python
+pandas
+numpy
+matplotlib
+tensorflow
+mediapipe
+joblib
